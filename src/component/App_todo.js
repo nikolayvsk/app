@@ -50,7 +50,7 @@ function App_todo() {
             <th>
               <button className="btn btn-primary btn-block" onClick={onAddTodo}>
                 {" "}
-                Додати нову конячку
+                Додати нову конячку 
               </button>
             </th>
           </tr>
